@@ -1,4 +1,4 @@
-# Holberton School - 0x01-variables_if_else_while
+#  ALX SE - 0x01-variables_if_else_while
 Basic C Syntax: Variables, loops, conditionals
 ## New commands / functions used:
 ``if``, ``else if``, ``else``, ``while``, ``char``, ``printf``, ``int``, ``unsigned int``
@@ -54,4 +54,3 @@ Numbers must be separated by ``, ``, followed by a space in ascending order. You
 
 <h6>10-print_comb2.c</h6>
 Prints numbers from 0 to 99.
-
