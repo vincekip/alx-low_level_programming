@@ -1,4 +1,9 @@
 #include "main.h"
+/*
+ * main entry point
+ * 
+ * returns success 
+ */
 
 int main(void)
 {
