@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	char *sh = "ALX SE";
+	char *sh = "_putchar";
 
 	while (*sh)
 	{
