@@ -2,6 +2,14 @@
 
 int main(void)
 {
-    printf("_putchar");
-}
+	char *sh = "ALX SE";
 
+	while (*sh)
+	{
+		_putchar(*sh);
+		sh++;
+	}
+	_putchar('\n');
+
+	return (0);
+}
